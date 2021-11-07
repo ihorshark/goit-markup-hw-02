@@ -31,6 +31,10 @@ ul {
   list-style: none;
 }
 
+button {
+  cursor: pointer;
+}
+
 .logo-link {
   font-family: Raleway;
   font-weight: 700;
@@ -93,7 +97,7 @@ span {
   color: var(--third-text-color);
 }
 
-.button {
+.hero-button {
   font-family: inherit;
   font-weight: 700;
   font-size: 16px;
